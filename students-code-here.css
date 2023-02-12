@@ -1,0 +1,26 @@
+.monocle{
+    position: relative;
+    left: 251px;
+    top: 43px;
+}
+
+.bandana{
+    position: absolute;
+    top: 178px;
+    left: 108px;
+}
+
+.pawprint{
+    position: fixed;
+    bottom: 595px;
+    right: 1330px;
+}
+
+.luna{
+    position: sticky;
+    left: 1px;
+}
+
+.top-hat{
+    z-index: 1;
+}
